@@ -1,0 +1,134 @@
+Time : 08:40:29
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:28
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:27
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:26
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:25
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:24
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:23
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:22
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:21
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:20
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:19
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:18
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:17
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:16
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:15
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:14
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:40:13
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:39:57
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:39:28
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:47
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:46
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:45
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:44
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:43
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:42
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:41
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:39
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:38
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:37
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:36
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:35
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:34
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:33
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:32
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:31
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:30
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:29
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:24
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:23
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:22
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:21
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:19
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:37:17
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:36:10
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 08:36:08
+SQLSTATE[HY000] [2006] MySQL server has gone away

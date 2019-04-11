@@ -1,0 +1,7 @@
+Time : 09:48:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?' at line 1
+Raw SQL : insert into mr_collect(user_id,post_id) VALUE :user_id,:post_id
+
+Time : 09:48:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?' at line 1
+Raw SQL : insert into mr_collect(user_id,post_id) VALUE :user_id,:post_id
